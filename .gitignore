@@ -18,3 +18,4 @@ npm-debug.log*
 
 # Node (in case anything lands at root)
 node_modules/
+docs/
